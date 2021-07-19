@@ -4,7 +4,7 @@ package x2021.z07;
  * @program: Algorithm
  * @description:
  * @author: 谢泽毅
- * @create: 2021-07-19 09:50
+ * @create: 2021-07-19 10:20
  **/
 public class y19找出和为目标值的那两个整数递增双指针 {
     //输入一个递增排序的数组和一个数字s，在数组中查找两个数，使得它们的和正好是s。如果有多对数字的和等于s，则输出任意一对即可。
