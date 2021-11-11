@@ -2,7 +2,7 @@ package x2021.z11;
 
 /**
  * <p>标题: 最长回文字符串-优化O(n^3->n^2)</p>
- * <p>描述: </p>
+ * <p>描述: 优化思路 中心线枚举</p>
  * <p>版权: Copyright (c) 2021</p>
  * <p>公司: </p>
  *
@@ -26,7 +26,7 @@ public class y10最长回文字符串 {
                     return s.substring(start,start+length);
                 }
             }
-            
+
         }
 
         return "";
